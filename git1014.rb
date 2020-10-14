@@ -11,3 +11,4 @@ else
 end
 
 puts day
+puts "{#day} 日です。をつけたしたいけどうまくいかん"
