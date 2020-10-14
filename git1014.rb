@@ -10,3 +10,4 @@ else
   puts "invaild data"
 end
 
+puts day
